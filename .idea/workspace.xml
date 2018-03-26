@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d4e82eb6-8d46-48ce-ad65-b79e07edc4cc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -92,7 +91,7 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="138" />
     <option name="y" value="-21" />
     <option name="width" value="768" />
@@ -223,12 +222,12 @@
       <workItem from="1521895268034" duration="547000" />
       <workItem from="1521948138049" duration="7145000" />
       <workItem from="1521961430410" duration="690000" />
-      <workItem from="1521962150973" duration="20333000" />
+      <workItem from="1521962150973" duration="20597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28715000" />
+    <option name="totallyTimeSpent" value="28979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -240,7 +239,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15506808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
