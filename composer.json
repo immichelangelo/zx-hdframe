@@ -1,0 +1,31 @@
+{
+    "name": "admin/zx-hdframe",
+    "description": "its a wonderful frame",
+    "type": "project",
+    "authors": [
+        {
+            "name": "zhengxin",
+            "email": "490833088@qq.com"
+        }
+    ],
+    "autoload":{
+        "files":[
+            "system/helper.php"
+        ],
+        "psr-4":{
+            "houdunwang\\":"houdunwang",
+            "app\\":"app",
+            "system\\":"system"
+        }
+
+    },
+    "require": {
+        "filp/whoops": "^2.1"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
