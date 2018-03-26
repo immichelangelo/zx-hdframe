@@ -3,10 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="d4e82eb6-8d46-48ce-ad65-b79e07edc4cc" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/zx-hdframe.iml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/app/home/controller/Indexcontroller.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/app/home/view/index/index.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
       <change beforePath="" afterPath="$PROJECT_DIR$/houdunwang/core/Boot.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/houdunwang/core/Controller.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/houdunwang/model/Base.php" />
@@ -228,12 +233,12 @@
       <workItem from="1521895268034" duration="547000" />
       <workItem from="1521948138049" duration="7145000" />
       <workItem from="1521961430410" duration="690000" />
-      <workItem from="1521962150973" duration="19990000" />
+      <workItem from="1521962150973" duration="20047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28372000" />
+    <option name="totallyTimeSpent" value="28429000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
