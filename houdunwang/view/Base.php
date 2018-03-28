@@ -10,7 +10,7 @@ use houdunwang\core\Controller;
  */
 class Base
 {
-    private $file;//模板文件
+    private $file=null;//模板文件
     private $data = [];//存储数据
     /**
      * @param string $tpl 加载模板

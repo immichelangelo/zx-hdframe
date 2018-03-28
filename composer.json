@@ -9,5 +9,24 @@
             "email": "490833088@qq.com"
         }
     ],
-    "require": {}
+    "autoload":{
+        "files":[
+            "system/helper.php"
+        ],
+        "psr-4":{
+            "houdunwang\\":"houdunwang",
+            "app\\":"app",
+            "system\\":"system"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.1",
+        "gregwar/captcha": "^1.1"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
 }

@@ -23,6 +23,9 @@ class Model
 
     public static function runParse($name,$arguments)
     {
-        call_user_func_array([new Base(),$name],$arguments);
+//        p($name);die();
+        $modelCLass = get_called_class();
+//        p($modelCLass);
+        return call_user_func_array([new Base($modelCLass),$name],$arguments);
     }
 }

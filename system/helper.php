@@ -53,6 +53,7 @@ function c($var = null)
     }
     if(count($info)==2){
         $file = '../system/config/'.$info[0].'.php';
+//        p($file);
         if(is_file($file)){
             $data = include $file;
             return isset($data[$info[1]])?$data[$info[1]]:null;

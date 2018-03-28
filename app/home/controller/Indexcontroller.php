@@ -8,25 +8,18 @@
 
 namespace app\home\controller;
 
-
 use houdunwang\core\Controller;
+use houdunwang\model\Model;
 use houdunwang\view\View;
+
+
+use system\model\Grade;
+use system\model\Student;
 
 class Indexcontroller extends Controller
 {
     public function index()
     {
-        //echo 111;
-        //调用不存在的方法运行__call 测试view
-        //View::make();
-        //return (new View())->make();
-        //(new View())->with();
-        //测试model
-        c('database.name');
-    }
-
-    public function add()
-    {
-        $this->jump()->message('添加成功');
+        return View::make();
     }
 }

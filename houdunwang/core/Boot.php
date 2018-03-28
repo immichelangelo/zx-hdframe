@@ -14,8 +14,8 @@ class Boot
      */
     public static function run(){
         self::handler();
-        self::apprun();
         self::init();
+        self::apprun();
     }
     /**
      * 提示错误信息方法
